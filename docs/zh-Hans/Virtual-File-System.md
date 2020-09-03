@@ -8,7 +8,7 @@
 
 [Volo.Abp.VirtualFileSystem](https://www.nuget.org/packages/Volo.Abp.VirtualFileSystem) 是虚拟文件系统的NuGet主页.
 
-使用ABP CLIi添加包到你的项目:
+使用ABP CLI添加包到你的项目:
 
 * 安装[ABP CLI](https://docs.abp.io/en/abp/latest/CLI),如果你还没有安装.
 * 在你想要添加 `Volo.Abp.VirtualFileSystem` 包的项目的 `.csproj` 文件目录打开命令行(终端).
